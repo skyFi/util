@@ -1,0 +1,27 @@
+{
+  "name": "uutil",
+  "version": "1.0.0",
+  "description": "javascript unconventional lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyFi/util.git"
+  },
+  "keywords": [
+    "javascript",
+    "util",
+    "lib"
+  ],
+  "author": "skylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyFi/util/issues"
+  },
+  "homepage": "https://github.com/skyFi/util#readme",
+  "dependencies": {
+    "uutil.scroll": "^1.0.0"
+  }
+}
