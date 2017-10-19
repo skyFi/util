@@ -1,7 +1,7 @@
 {
-  "name": "uutil.scroll",
-  "version": "1.0.0",
-  "description": "uutil scroll,全面禁止页面滚动,解决移动端输入框弹窗光标错位抖动的现象。",
+  "name": "lescroll",
+  "version": "0.0.3",
+  "description": "lescroll,全面禁止页面滚动,解决移动端输入框弹窗光标错位抖动的现象。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/skyFi/util.git"
   },
   "keywords": [
-    "uutil",
+    "lescroll",
     "scroll",
     "disableScroll",
     "enableScroll"
