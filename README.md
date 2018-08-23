@@ -10,6 +10,11 @@ npm install leutil
 yarn add leutil
 ```
 
+## CDN
+```
+https://unpkg.com/leutil@1.0.2/index.js
+```
+
 ## Api
 
 ### isEmail(email: String): Boolean 校验邮箱格式
